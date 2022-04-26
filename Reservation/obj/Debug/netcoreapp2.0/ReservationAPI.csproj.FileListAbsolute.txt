@@ -1,0 +1,14 @@
+D:\MyWorks\Github-Sample\DotNET_Developer-master\DotNET_Developer-master\TestingDotNetApplications\Activity\ReservationAPI\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\MyWorks\Github-Sample\DotNET_Developer-master\DotNET_Developer-master\TestingDotNetApplications\Activity\ReservationAPI\bin\Debug\netcoreapp2.0\appsettings.json
+D:\MyWorks\Github-Sample\DotNET_Developer-master\DotNET_Developer-master\TestingDotNetApplications\Activity\ReservationAPI\bin\Debug\netcoreapp2.0\ReservationAPI.deps.json
+D:\MyWorks\Github-Sample\DotNET_Developer-master\DotNET_Developer-master\TestingDotNetApplications\Activity\ReservationAPI\bin\Debug\netcoreapp2.0\ReservationAPI.runtimeconfig.json
+D:\MyWorks\Github-Sample\DotNET_Developer-master\DotNET_Developer-master\TestingDotNetApplications\Activity\ReservationAPI\bin\Debug\netcoreapp2.0\ReservationAPI.runtimeconfig.dev.json
+D:\MyWorks\Github-Sample\DotNET_Developer-master\DotNET_Developer-master\TestingDotNetApplications\Activity\ReservationAPI\bin\Debug\netcoreapp2.0\ReservationAPI.dll
+D:\MyWorks\Github-Sample\DotNET_Developer-master\DotNET_Developer-master\TestingDotNetApplications\Activity\ReservationAPI\bin\Debug\netcoreapp2.0\ReservationAPI.pdb
+D:\MyWorks\Github-Sample\DotNET_Developer-master\DotNET_Developer-master\TestingDotNetApplications\Activity\ReservationAPI\obj\Debug\netcoreapp2.0\ReservationAPI.csprojAssemblyReference.cache
+D:\MyWorks\Github-Sample\DotNET_Developer-master\DotNET_Developer-master\TestingDotNetApplications\Activity\ReservationAPI\obj\Debug\netcoreapp2.0\ReservationAPI.AssemblyInfoInputs.cache
+D:\MyWorks\Github-Sample\DotNET_Developer-master\DotNET_Developer-master\TestingDotNetApplications\Activity\ReservationAPI\obj\Debug\netcoreapp2.0\ReservationAPI.AssemblyInfo.cs
+D:\MyWorks\Github-Sample\DotNET_Developer-master\DotNET_Developer-master\TestingDotNetApplications\Activity\ReservationAPI\obj\Debug\netcoreapp2.0\ReservationAPI.csproj.CoreCompileInputs.cache
+D:\MyWorks\Github-Sample\DotNET_Developer-master\DotNET_Developer-master\TestingDotNetApplications\Activity\ReservationAPI\obj\Debug\netcoreapp2.0\ReservationAPI.dll
+D:\MyWorks\Github-Sample\DotNET_Developer-master\DotNET_Developer-master\TestingDotNetApplications\Activity\ReservationAPI\obj\Debug\netcoreapp2.0\ReservationAPI.pdb
+D:\MyWorks\Github-Sample\DotNET_Developer-master\DotNET_Developer-master\TestingDotNetApplications\Activity\ReservationAPI\obj\Debug\netcoreapp2.0\ReservationAPI.genruntimeconfig.cache
